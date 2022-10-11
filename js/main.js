@@ -1,5 +1,6 @@
 pannellum.viewer('panorama', {
     "type": "equirectangular",
-    "panorama": "beach.jpg",
+    "panorama": "i.jpeg",
     "autoLoad": true,
+    "autoRotate": -4,
 });
