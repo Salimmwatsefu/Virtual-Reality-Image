@@ -4,3 +4,6 @@ pannellum.viewer('panorama', {
     "autoLoad": true,
     "autoRotate": -4,
 });
+document.getElementById('music-toggle').addEventListener('click', function() {
+    document.getElementById("myAudio").play();
+});

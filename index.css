@@ -14,3 +14,11 @@ body{
     width: 100%;
     height: 100vh;
 }
+#music-toggle {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 26px;
+    height: 26px;
+    text-align: center;
+}
